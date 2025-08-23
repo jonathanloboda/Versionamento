@@ -1,0 +1,35 @@
+body {
+    background: #fff8ee;
+    min-height: 100vh;
+}
+
+.cabecalho {
+    background-color: rgb(121, 88, 76);
+    color: white;
+    padding: 32px 0 16px 0;
+    text-align: center;
+    border-bottom: 4px solid #4d4033;
+    margin-bottom: 32px;
+}
+
+.ctn1{
+    max-width: 700px;
+    margin: 24px auto;
+    font-size: 1.1rem;
+    line-height: 1.7;
+    background: #fff;
+    padding: 16px 24px;
+    border-radius: 8px;
+    box-shadow: 0 1px 4px #0001;
+}
+a {
+    color: rgb(121, 88, 76);
+    text-decoration: none;
+    font-weight: bold;
+    transition: color 0.2s;
+}
+
+a:hover {
+    color: #a8876b;
+    text-decoration: underline;
+}
